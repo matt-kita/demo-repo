@@ -2,8 +2,8 @@
 
 ## First attempts at learning Git and GitHub
 
-Markdown test **for bold**,
-And a test for *italic* and **bold**.
+
+A test for *italic* and **bold**.
 
 - This is
 - an unordered
